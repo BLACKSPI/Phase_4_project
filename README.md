@@ -42,6 +42,7 @@ The objective here is to clean the text data to ensure it is in a format that ca
 
 <h1>Modelling</h1>
 In this project we decided to use the following models:
-1. Logistic Regression model (Baseline Model)
- Logistic regression is chosen for its simplicity and easy explanation. As the simplest model of the linear family classification, it acts as a good starting point.
-2. 
+<ol><li>Logistic Regression model (Baseline Model)
+ Logistic regression is chosen for its simplicity and easy explanation. As the simplest model of the linear family classification, it acts as a good starting point.</li>
+</ol> 
+
