@@ -33,7 +33,7 @@ The objective here is to clean the text data to ensure it is in a format that ca
 
 <p>After preprocessing we wanted to see the most frequently used terms and the top positive and negative terms.</p>
 
-<b>What are the most frequent terms.</b>
+<b>What are the most frequent terms?</b>
 <p><img src="https://github.com/BLACKSPI/Phase_4_project/blob/762364260af5a88a99a2d665067cc714cd34e085/most%20used%20terms.png"></p>
 <p>The diagram above shows the terms that are most frequent in our dataset.</p>
 
