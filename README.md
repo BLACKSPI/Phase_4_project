@@ -60,7 +60,7 @@ Looking at performance across all classes, it is justified that Logistic regress
 
 <h1>Recommendations</h1> </br>
 <ol><li>Improve Customer Support Response by monitoring and addressing common 
-   complaints to reduce dissatisfaction and enhance Product Quality and Transparency.</li>\
+   complaints to reduce dissatisfaction and enhance Product Quality and Transparency.</li>
  </br>
  <li>Encouraging user engagement and Promoting positive reviews by Featuring 
    satisfied customer testimonials in marketing.</li>
