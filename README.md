@@ -23,5 +23,5 @@ Unrelated columns: These columns provide metadata or details that do not contrib
 By removing columns like id, query, _unit_id, we focus only on important functions: tweet text and emotions. </br>
 
 <h2>Exploratory Data Analysis (EDA)</h2>
-<img src="https://github.com/BLACKSPI/Phase_4_project/blob/45745d0efe21023f899bd84617a19cdca72b2de1/Sentiment%20distribution.png", alt="sentiment distribution"
+<img src="https://github.com/BLACKSPI/Phase_4_project/blob/45745d0efe21023f899bd84617a19cdca72b2de1/Sentiment%20distribution.png", alt="sentiment distribution">
 
