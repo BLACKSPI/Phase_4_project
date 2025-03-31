@@ -60,14 +60,18 @@ Looking at performance across all classes, it is justified that Logistic regress
 
 <h1>Recommendations</h1> </br>
 <ol><li>Improve Customer Support Response by monitoring and addressing common 
-   complaints to reduce dissatisfaction and enhance Product Quality and Transparency.</li>
+   complaints to reduce dissatisfaction and enhance Product Quality and Transparency.</li>\
+ </br>
  <li>Encouraging user engagement and Promoting positive reviews by Featuring 
    satisfied customer testimonials in marketing.</li>
+</br>
 <li>Improve data collection and sentiment monitoring by collectin feedback      from customers' reviews</li>
+</br>
 <li>Ensure Real-Time sentiment analysis by Deploying sentiment tracking to  
    detect emerging issues early and respond quickly.</li>
+</br>
 <li>Enhance AI-Driven Customer Insights to detect sentiment in customer service 
-   chats and provide faster resolutions.</li>li></ol>
+   chats and provide faster resolutions.</li></ol>
 
 
 
