@@ -50,5 +50,28 @@ In this project we decided to use the following models:
  <li>XGBoost. XGBOOST uses enhanced use, combining weak learners (shallow trees) to create a strong learner. It is known for its high performance, especially on unbalanced data sets and will further improve the accuracy of the classification compared to previous models.</li>
 </ol> 
 
+<h1>Model Evaluation</h1>
+<p>After comparing model performance, model chosen is Logistic Regression as the final model. This decision is based on:
+
+Accuracy: Logistic Regression achieved an accuracy of 0.7391, the highest between all tested.
+Class Imbalance Handling: Logistic Regression struggles with class 3 but performed well on the majority of classes, especially on class 1 (high recall of 94%).
+Model Simplicity: Logistic Regression is a relatively simple model, making it easier to interpret and deploy in real-world applications.
+Looking at performance across all classes, it is justified that Logistic regression was the best.</p>
+
+<h1>Recommendations</h1>
+1. Improve Customer Support Response by monitoring and addressing common 
+   complaints to reduce dissatisfaction and enhance Product Quality and Transparency.
+
+2. Encouraging user engagement and Promoting positive reviews by Featuring 
+   satisfied customer testimonials in marketing.
+
+3.  Improve data collection and sentiment monitoring by collectin feedback      from customers' reviews
+
+4. Ensure Real-Time sentiment analysis by Deploying sentiment tracking to  
+   detect emerging issues early and respond quickly.
+
+5. Enhance AI-Driven Customer Insights to detect sentiment in customer service 
+   chats and provide faster resolutions.
+
 
 
