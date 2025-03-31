@@ -42,7 +42,13 @@ The objective here is to clean the text data to ensure it is in a format that ca
 
 <h1>Modelling</h1>
 In this project we decided to use the following models:
-<ol><li>Logistic Regression model (Baseline Model)
+<ol><li>Logistic Regression model (Baseline Model).
  Logistic regression is chosen for its simplicity and easy explanation. As the simplest model of the linear family classification, it acts as a good starting point.</li>
+ <li>Random Forest Classifier. Random forest is known for its ability to manage more complex relationships and interactions between characteristics. It is also less excessive adjustment compared to personal decisions, making it a solid candidate to improve the performance of the model.</li>
+ <li>Support Vector Machine (SVM). SVM is known for its ability to find optimal decisions in large data. Using linear nucleus, we hope SVM will grasp complex models in data, capable of improving random forest model.
+ </li>
+ <li>XGBoost. XGBOOST uses enhanced use, combining weak learners (shallow trees) to create a strong learner. It is known for its high performance, especially on unbalanced data sets and will further improve the accuracy of the classification compared to previous models.</li>
 </ol> 
+
+
 
