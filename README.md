@@ -30,3 +30,6 @@ By removing columns like id, query, _unit_id, we focus only on important functio
 
 <b>2. What are the most frequent terms.</b>
 <p><img src="https://github.com/BLACKSPI/Phase_4_project/blob/762364260af5a88a99a2d665067cc714cd34e085/most%20used%20terms.png"></p>
+<p>The diagram above shows the terms that are most frequent in our dataset.</p>
+
+<b>Top Positive and Top Negative Words.</>
