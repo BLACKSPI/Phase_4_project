@@ -23,5 +23,8 @@ Unrelated columns: These columns provide metadata or details that do not contrib
 By removing columns like id, query, _unit_id, we focus only on important functions: tweet text and emotions. </br>
 
 <h2>Exploratory Data Analysis (EDA)</h2>
+<b>1. Which are the most dominating sentiments?</b>
 <img src="https://github.com/BLACKSPI/Phase_4_project/blob/45745d0efe21023f899bd84617a19cdca72b2de1/Sentiment%20distribution.png", alt="sentiment distribution">
+
+<p>This graph shows that most tweets are neutral about Apple. This indicates that the majority of users post factual or non-emotional content. Negative tweets are the second most common, highlighting a significant amount of criticism and complaints. Positive tweets are less common. This means that fewer users will express strong Apple approval. Very positive tweets are the least common and show that enthusiastic praise is relatively rare. Overall, the  distribution of mood suggests that  Apple receives a mix of opinions, but neutral arguments dominate more criticism than strong praise.</p>
 
