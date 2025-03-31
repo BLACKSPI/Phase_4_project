@@ -29,9 +29,9 @@ By removing columns like id, query, _unit_id, we focus only on important functio
 <p>This graph shows that most tweets are neutral about Apple. This indicates that the majority of users post factual or non-emotional content. Negative tweets are the second most common, highlighting a significant amount of criticism and complaints. Positive tweets are less common. This means that fewer users will express strong Apple approval. Very positive tweets are the least common and show that enthusiastic praise is relatively rare. Overall, the  distribution of mood suggests that  Apple receives a mix of opinions, but neutral arguments dominate more criticism than strong praise.</p>
 
 <h2>Preprocessing</h2>
-The objective here is to clean the text data to ensure it is in a format that can be processed by the machine learning model. This includes removing special characters, stop words, and unnecessary spaces.<br>
+The objective here is to clean the text data to ensure it is in a format that can be processed by the machine learning model. This includes removing special characters, stop words, and unnecessary spaces.</br>
 
-After we preprocessed, we wanted to take a look at the wordclouds for negative tweets to highlight common words used to describe specific products.</br>
+After preprocessing we wanted to see the most frequently used terms and the top positive and negative tems.
 
 <b>2. What are the most frequent terms.</b>
 <p><img src="https://github.com/BLACKSPI/Phase_4_project/blob/762364260af5a88a99a2d665067cc714cd34e085/most%20used%20terms.png"></p>
