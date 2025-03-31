@@ -39,3 +39,9 @@ The objective here is to clean the text data to ensure it is in a format that ca
 
 <b>What are the top Positive and Top Negative Words?<b/>
 <p><img src="https://github.com/BLACKSPI/Phase_4_project/blob/6a39c7c8e84939df204568c3c90a243d3e63f907/positive%20vs%20negative.png", alt="image"></p>
+
+<h1>Modelling</h1>
+In this project we decided to use the following models:
+1. Logistic Regression model (Baseline Model)
+ Logistic regression is chosen for its simplicity and easy explanation. As the simplest model of the linear family classification, it acts as a good starting point.
+2. 
