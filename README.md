@@ -59,19 +59,15 @@ Model Simplicity: Logistic Regression is a relatively simple model, making it ea
 Looking at performance across all classes, it is justified that Logistic regression was the best.</p>
 
 <h1>Recommendations</h1> </br>
-1. Improve Customer Support Response by monitoring and addressing common 
-   complaints to reduce dissatisfaction and enhance Product Quality and Transparency.
-
-2. Encouraging user engagement and Promoting positive reviews by Featuring 
-   satisfied customer testimonials in marketing.
-
-3.  Improve data collection and sentiment monitoring by collectin feedback      from customers' reviews
-
-4. Ensure Real-Time sentiment analysis by Deploying sentiment tracking to  
-   detect emerging issues early and respond quickly.
-
-5. Enhance AI-Driven Customer Insights to detect sentiment in customer service 
-   chats and provide faster resolutions.
+<ol><li>Improve Customer Support Response by monitoring and addressing common 
+   complaints to reduce dissatisfaction and enhance Product Quality and Transparency.</li>
+ <li>Encouraging user engagement and Promoting positive reviews by Featuring 
+   satisfied customer testimonials in marketing.</li>
+<li>Improve data collection and sentiment monitoring by collectin feedback      from customers' reviews</li>
+<li>Ensure Real-Time sentiment analysis by Deploying sentiment tracking to  
+   detect emerging issues early and respond quickly.</li>
+<li>Enhance AI-Driven Customer Insights to detect sentiment in customer service 
+   chats and provide faster resolutions.</li>li></ol>
 
 
 
