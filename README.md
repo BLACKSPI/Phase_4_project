@@ -53,12 +53,12 @@ In this project we decided to use the following models:
 <h1>Model Evaluation</h1>
 <p>After comparing model performance, model chosen is Logistic Regression as the final model. This decision is based on:
 
-Accuracy: Logistic Regression achieved an accuracy of 0.7391, the highest between all tested.
+Accuracy: Logistic Regression achieved an accuracy of 0.7378, the highest between all tested.
 Class Imbalance Handling: Logistic Regression struggles with class 3 but performed well on the majority of classes, especially on class 1 (high recall of 94%).
 Model Simplicity: Logistic Regression is a relatively simple model, making it easier to interpret and deploy in real-world applications.
 Looking at performance across all classes, it is justified that Logistic regression was the best.</p>
 
-<h1>Recommendations</h1>
+<h1>Recommendations</h1> </br>
 1. Improve Customer Support Response by monitoring and addressing common 
    complaints to reduce dissatisfaction and enhance Product Quality and Transparency.
 
