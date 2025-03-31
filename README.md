@@ -33,3 +33,4 @@ By removing columns like id, query, _unit_id, we focus only on important functio
 <p>The diagram above shows the terms that are most frequent in our dataset.</p>
 
 <b>Top Positive and Top Negative Words.</>
+<p><img src="https://github.com/BLACKSPI/Phase_4_project/blob/6a39c7c8e84939df204568c3c90a243d3e63f907/positive%20vs%20negative.png", alt="image"></p>
