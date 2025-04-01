@@ -1,4 +1,4 @@
-<h1>Sentiments ON Apple In Tweeter </h1>
+<h1>SENTIMENT ANALYSIS ON  APPLE-TWITTER </h1>
 <h2>1. Introduction</h2>
 Social media webweb sites like Twitter are essential stores for public perspectives and remarks withinside the virtual age. Improving product development, advertising and marketing plans, and client relationships for companies like Apple relies upon on their understanding of the way clients view their items on Twitter.
 
